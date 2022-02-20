@@ -34,8 +34,6 @@ public class CatalogGeneratorImpl implements CatalogGenerator {
     }
 
     private String buildCsvRow(String csv) {
-        // FIXME
-        // Split doesn't tear apart commas.
         String uid = buildUID(csv.split(","));
         String price = String.valueOf(calculatePrice(uid));
 
@@ -51,13 +49,13 @@ public class CatalogGeneratorImpl implements CatalogGenerator {
 
     private List<String> combine(List<String> list1, List<String> list2) {
         return list1.stream()
-                .flatMap(str1 -> list2.stream().map(str2 -> str1.concat(", ").concat(str2)))
+                .flatMap(str1 -> list2.stream().map(str2 -> str1.concat(",").concat(str2)))
                 .collect(Collectors.toList());
     }
 
     @Override
     public String buildUID(String... elements) {
-        return Stream.of(elements).reduce("", (accumulator, str) -> accumulator + str.charAt(0));
+        return Stream.of(elements).reduce("", (uid, element) -> uid + element.charAt(0));
     }
 
     @Override

@@ -1,36 +1,36 @@
-A  ,Axe, Wood, Small,129.0
-A  ,Axe, Wood, Medium,129.0
-A  ,Axe, Wood, Large,129.0
-A  ,Axe, Wood, Extra Large,129.0
-A  ,Axe, Stone, Small,129.0
-A  ,Axe, Stone, Medium,129.0
-A  ,Axe, Stone, Large,129.0
-A  ,Axe, Stone, Extra Large,129.0
-A  ,Axe, Steel, Small,129.0
-A  ,Axe, Steel, Medium,129.0
-A  ,Axe, Steel, Large,129.0
-A  ,Axe, Steel, Extra Large,129.0
-S  ,Speer, Wood, Small,147.0
-S  ,Speer, Wood, Medium,147.0
-S  ,Speer, Wood, Large,147.0
-S  ,Speer, Wood, Extra Large,147.0
-S  ,Speer, Stone, Small,147.0
-S  ,Speer, Stone, Medium,147.0
-S  ,Speer, Stone, Large,147.0
-S  ,Speer, Stone, Extra Large,147.0
-S  ,Speer, Steel, Small,147.0
-S  ,Speer, Steel, Medium,147.0
-S  ,Speer, Steel, Large,147.0
-S  ,Speer, Steel, Extra Large,147.0
-S  ,Sword, Wood, Small,147.0
-S  ,Sword, Wood, Medium,147.0
-S  ,Sword, Wood, Large,147.0
-S  ,Sword, Wood, Extra Large,147.0
-S  ,Sword, Stone, Small,147.0
-S  ,Sword, Stone, Medium,147.0
-S  ,Sword, Stone, Large,147.0
-S  ,Sword, Stone, Extra Large,147.0
-S  ,Sword, Steel, Small,147.0
-S  ,Sword, Steel, Medium,147.0
-S  ,Sword, Steel, Large,147.0
-S  ,Sword, Steel, Extra Large,147.0
+AWS,Axe,Wood,Small,235.0
+AWM,Axe,Wood,Medium,229.0
+AWL,Axe,Wood,Large,228.0
+AWE,Axe,Wood,Extra Large,221.0
+ASS,Axe,Stone,Small,231.0
+ASM,Axe,Stone,Medium,225.0
+ASL,Axe,Stone,Large,224.0
+ASE,Axe,Stone,Extra Large,217.0
+ASS,Axe,Steel,Small,231.0
+ASM,Axe,Steel,Medium,225.0
+ASL,Axe,Steel,Large,224.0
+ASE,Axe,Steel,Extra Large,217.0
+SWS,Speer,Wood,Small,253.0
+SWM,Speer,Wood,Medium,247.0
+SWL,Speer,Wood,Large,246.0
+SWE,Speer,Wood,Extra Large,239.0
+SSS,Speer,Stone,Small,249.0
+SSM,Speer,Stone,Medium,243.0
+SSL,Speer,Stone,Large,242.0
+SSE,Speer,Stone,Extra Large,235.0
+SSS,Speer,Steel,Small,249.0
+SSM,Speer,Steel,Medium,243.0
+SSL,Speer,Steel,Large,242.0
+SSE,Speer,Steel,Extra Large,235.0
+SWS,Sword,Wood,Small,253.0
+SWM,Sword,Wood,Medium,247.0
+SWL,Sword,Wood,Large,246.0
+SWE,Sword,Wood,Extra Large,239.0
+SSS,Sword,Stone,Small,249.0
+SSM,Sword,Stone,Medium,243.0
+SSL,Sword,Stone,Large,242.0
+SSE,Sword,Stone,Extra Large,235.0
+SSS,Sword,Steel,Small,249.0
+SSM,Sword,Steel,Medium,243.0
+SSL,Sword,Steel,Large,242.0
+SSE,Sword,Steel,Extra Large,235.0
